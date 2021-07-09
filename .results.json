@@ -5,9 +5,9 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2021-07-09T16:46:45.637Z",
-    "end": "2021-07-09T16:46:45.946Z",
-    "duration": 309
+    "start": "2021-07-09T21:33:19.485Z",
+    "end": "2021-07-09T21:33:20.226Z",
+    "duration": 741
   },
   "tests": [
     {
@@ -48,7 +48,7 @@
     {
       "title": "returns a function",
       "fullTitle": "index.js createFareMultiplier() returns a function",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -62,28 +62,28 @@
     {
       "title": "is a function",
       "fullTitle": "index.js fareDoubler() is a function",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "doubles fares",
       "fullTitle": "index.js fareDoubler() doubles fares",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a function",
       "fullTitle": "index.js fareTripler() is a function",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "triples fares",
       "fullTitle": "index.js fareTripler() triples fares",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -97,7 +97,7 @@
     {
       "title": "returns the last two drivers when passed returnLastTwoDrivers() as the second argument",
       "fullTitle": "index.js selectDifferentDrivers(arrayOfDrivers, function) returns the last two drivers when passed returnLastTwoDrivers() as the second argument",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
@@ -143,7 +143,7 @@
     {
       "title": "returns a function",
       "fullTitle": "index.js createFareMultiplier() returns a function",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -157,28 +157,28 @@
     {
       "title": "is a function",
       "fullTitle": "index.js fareDoubler() is a function",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "doubles fares",
       "fullTitle": "index.js fareDoubler() doubles fares",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a function",
       "fullTitle": "index.js fareTripler() is a function",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "triples fares",
       "fullTitle": "index.js fareTripler() triples fares",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -192,7 +192,7 @@
     {
       "title": "returns the last two drivers when passed returnLastTwoDrivers() as the second argument",
       "fullTitle": "index.js selectDifferentDrivers(arrayOfDrivers, function) returns the last two drivers when passed returnLastTwoDrivers() as the second argument",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
